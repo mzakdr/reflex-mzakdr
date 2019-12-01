@@ -1,9 +1,9 @@
 actions:
-  - label: Get Started
-    url: /generic
+  - is_primary: true
+    is_scrolly: true
+    label: Home
+    url: /home
+  - is_primary: false
     is_scrolly: false
-    is_primary: true
-  - label: Log In
-    url: /generic
-    is_scrolly: false
-    is_primary: false
+    label: Email me
+    url: 'Mailto:mzakdr@gmail.com '
