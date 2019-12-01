@@ -1,6 +1,6 @@
 enabled: true
 title: 'Social '
-social_content: These are my skcialssocials. I try to be ctive on met.
+social_content: These are my socials. I try to be active on them.
 social_links:
   - icon: fa-twitter
     link_url: www.twitter.com/mzakdr
@@ -12,4 +12,5 @@ social_links:
     link_url: 'www.github.com/mzakdr '
     title: GitHub
   - icon: fa-email
+    link_url: 'mailto:mzakdr@gmail.com '
     title: Email
