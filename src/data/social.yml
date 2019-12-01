@@ -1,19 +1,15 @@
 enabled: true
-title: Magna lorem ipsum
-social_content: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+title: 'Social '
+social_content: These are my skcialssocials. I try to be ctive on met.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
-    link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+  - icon: fa-twitter
+    link_url: www.twitter.com/mzakdr
+    title: Twitter
+  - icon: fa-instagram
+    link_url: www.instagram.com/mzakdr
+    title: Instagram
+  - icon: fa-github
+    link_url: 'www.github.com/mzakdr '
+    title: GitHub
+  - icon: fa-email
+    title: Email
